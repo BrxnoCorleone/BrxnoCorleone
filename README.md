@@ -39,4 +39,4 @@ Programs that I use to develop my projects.
   
 <br/>
 
-[![Atsu stats](https://github-readme-stats.vercel.app/api?username=TheAtsu&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/seveensz/)
+[![Atsu stats](https://github-readme-stats.vercel.app/api?username=seveensz&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/seveensz/)
