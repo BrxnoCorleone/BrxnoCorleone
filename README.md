@@ -2,7 +2,7 @@
 
 ### Hey! 👋
 
-My name is Bruno, I'm 14 years old, I'm a Javascript developer, I'm learning C # but I'm still not so good with it. Here you can find some of my projects based on Javascript.
+My name is Bruno, I'm 17 years old, I'm a Javascript developer, I'm learning C # but I'm still not so good with it. Here you can find some of my projects based on Javascript.
 
 
 
