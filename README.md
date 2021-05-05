@@ -31,10 +31,10 @@ Programs that I use to develop my projects.
 <details>
   <summary>💬 Contact</summary>
    </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>theatsu_#6410</string>
+  <string>BrxnoCorleone.#8534</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <string>@TheAtsu_</string> </br>
+  <string>@BrxnoCorleone</string> </br>
 </details> 
   
 <br/>
