@@ -31,12 +31,12 @@ Programs that I use to develop my projects.
 <details>
   <summary>💬 Contact</summary>
    </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>BrxnoCorleone.#8534</string>
+  <string>brxno.kts#0001</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <string>@BrxnoCorleone</string> </br>
+  <string>@brxnokts</string> </br>
 </details> 
   
 <br/>
 
-[![Atsu stats](https://github-readme-stats.vercel.app/api?username=seveensz&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/seveensz/)
+[![Atsu stats](https://github-readme-stats.vercel.app/api?username=seveensz&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/brxnokts/)
