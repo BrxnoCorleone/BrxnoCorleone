@@ -25,10 +25,7 @@ Programs that I use to develop my projects.
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-inactive?style=for-the-badge&logo=github&logoColor=black)
   ![Sublime Text 3](https://img.shields.io/badge/Sublime_Text_3-grey?style=for-the-badge&logo=sublime-text&logoColor=yellow)
-
-<br/>
+  
 ![Snake animation](https://github.com/NailsonDev/NailsonDev/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
 
 [![Atsu stats](https://github-readme-stats.vercel.app/api?username=brxnokts&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/brxnokts/)
