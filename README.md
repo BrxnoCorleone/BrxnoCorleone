@@ -20,14 +20,10 @@ Technologies that I know or that I want to learn.
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-### 🚀 Tools
+### 🚀 Programas que utilizo em meus projetos.
 Programs that I use to develop my projects.
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=blue)
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-inactive?style=for-the-badge&logo=github&logoColor=black)
-  ![Sublime Text 3](https://img.shields.io/badge/Sublime_Text_3-grey?style=for-the-badge&logo=sublime-text&logoColor=yellow)
+<code><img height="30" src="https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue"></code>
   
 ![Snake animation](https://github.com/NailsonDev/NailsonDev/blob/output/github-contribution-grid-snake.svg)
-
-[![Atsu stats](https://github-readme-stats.vercel.app/api?username=brxnokts&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/brxnokts/)
