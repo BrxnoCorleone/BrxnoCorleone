@@ -23,7 +23,7 @@ Technologies that I know or that I want to learn.
 ### 🚀 Programas que utilizo em meus projetos.
 Programs that I use to develop my projects.
 
-<code.<img height="30" src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=white"></code>
   
 ![Snake animation](https://github.com/NailsonDev/NailsonDev/blob/output/github-contribution-grid-snake.svg)
